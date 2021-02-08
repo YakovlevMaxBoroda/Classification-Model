@@ -1,6 +1,8 @@
 # Classification-Model
 The model classifies images of people by gender and age
+
 Датасет для этого проекта взят отсюда: https://www.kaggle.com/ttungl/adience-benchmark-gender-and-age-classification
+
 В качестве библиотеки по глубокому обучению использован PyTorch
 Архитектура сети для проекта:
   CNN-слой, выходных каналов 6, фильтр 5Х5, макспулинг
